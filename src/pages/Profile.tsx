@@ -1,9 +1,12 @@
- function Profile() {
-   return (
-     <>
-       <h1>Profile</h1>
-     </>
-   )
- }
+import { Header } from '@/components'
 
- export default Profile
+function Profile() {
+  return (
+    <>
+      <Header />
+      <h1>Profile</h1>
+    </>
+  )
+}
+
+export default Profile
