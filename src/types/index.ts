@@ -1,4 +1,5 @@
 export * from './avatarsList.d'
+export * from './customChart.d'
 export * from './customTable.d'
 export * from './theme.d'
 export * from './typographies.d'
