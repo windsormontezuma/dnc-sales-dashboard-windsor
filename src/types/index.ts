@@ -1,4 +1,5 @@
 export * from './avatarsList.d'
+export * from './appThemeContext.d'
 export * from './customChart.d'
 export * from './customTable.d'
 export * from './theme.d'
